@@ -1,5 +1,5 @@
 # Chapter-4-Data-Science-Ethics
-** COntributors **
+**Contributors**
 
 * Roman Egger & Larissa Neuburger
 
